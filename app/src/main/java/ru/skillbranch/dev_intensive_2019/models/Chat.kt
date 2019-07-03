@@ -1,4 +1,4 @@
-package ru.skillbranch.devintensive.models
+package ru.skillbranch.dev_intensive_2019.models
 
 
 class Chat(

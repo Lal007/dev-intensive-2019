@@ -1,9 +1,8 @@
-package ru.skillbranch.devintensive.extensions
+package ru.skillbranch.dev_intensive_2019.extensions
 
-import ru.skillbranch.devintensive.models.User
-import ru.skillbranch.devintensive.models.UserView
-import ru.skillbranch.devintensive.utils.Utils
-import java.util.*
+import ru.skillbranch.dev_intensive_2019.models.User
+import ru.skillbranch.dev_intensive_2019.models.UserView
+import ru.skillbranch.dev_intensive_2019.utils.Utils
 
 fun User.toUserView() : UserView {
 

@@ -1,4 +1,4 @@
-package ru.skillbranch.devintensive.utils
+package ru.skillbranch.dev_intensive_2019.utils
 
 object Utils {
     fun parseFullName(fullName:String?):Pair<String?, String?>{
